@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<Foundry>
+<VM>
+<VMId type="string">52 66 d2 63 97 c4 85 10-dd f0 c5 52 2a ab b3 4d</VMId>
+<ClientMetaData>
+<clientMetaDataAttributes/>
+<HistoryEventList/></ClientMetaData>
+<vmxPathName type="string">MS-DOS.vmx</vmxPathName></VM></Foundry>

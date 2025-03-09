@@ -1,0 +1,21 @@
+# Disk DescriptorFile
+version=1
+encoding="GBK"
+CID=96603c33
+parentCID=ffffffff
+isNativeSnapshot="no"
+createType="twoGbMaxExtentFlat"
+
+# Extent description
+RW 40960 FLAT "MS-DOS-f001.vmdk" 0
+
+# The Disk Data Base 
+#DDB
+
+ddb.adapterType = "ide"
+ddb.geometry.cylinders = "40"
+ddb.geometry.heads = "16"
+ddb.geometry.sectors = "63"
+ddb.longContentID = "bd76d565090ed2c4da2ee7f796603c33"
+ddb.uuid = "60 00 C2 93 f0 01 cb 2d-23 b7 ae 95 23 9c 76 0a"
+ddb.virtualHWVersion = "10"
