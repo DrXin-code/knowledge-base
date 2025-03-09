@@ -1,0 +1,35 @@
+NET Clock  LOC = D11;
+
+Net "Clock" TNM_NET = sys_clk_pin;
+
+#Buttons
+Net "BTN_IN" CLOCK_DEDICATED_ROUTE = FALSE;
+NET BTN_IN LOC = E6;  //btn(0)
+
+NET Reset LOC = D5;  //btn(1)
+
+#switches
+NET SW<0> LOC= V5;
+NET SW<1> LOC= U4;
+NET SW<2> LOC= V3;
+
+#Leds
+NET LED<0> LOC=W3;
+NET LED<1> LOC=Y4;
+NET LED<2> LOC=Y1;
+
+NET AN_SEL(0) LOC = M17; # 7-seg AN1
+NET AN_SEL(1) LOC = AA20; # 7-seg AN4
+NET AN_SEL(2) LOC = AB21; # 7-seg AN5
+NET AN_SEL(3) LOC = N16; # 7-seg AN2
+NET AN_SEL(4) LOC = P19; # 7-seg AN3
+NET AN_SEL(5) LOC = P16; # 7-seg AN0
+
+NET seg(0) LOC=AA21; 
+NET seg(1) LOC=AA22;  
+NET seg(2) LOC=Y22; 
+NET seg(3) LOC=N15;  
+NET seg(4) LOC=AB19; 
+NET seg(5) LOC=P20; 
+NET seg(6) LOC=Y21;  
+NET seg(7) LOC=P15; 

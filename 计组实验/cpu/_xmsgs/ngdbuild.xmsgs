@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="ConstraintSystem" num="59" delta="old" >Constraint <arg fmt="%s" index="1">&lt;Net &quot;BTN_IN&quot; CLOCK_DEDICATED_ROUTE = FALSE;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(6)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">BTN_IN</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="old" >Constraint <arg fmt="%s" index="1">&lt;NET BTN_IN LOC = E6;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(7)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">BTN_IN</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET BTN_IN LOC = E6;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(7)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="old" >Constraint <arg fmt="%s" index="1">&lt;NET SW&lt;0&gt; LOC= V5;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(12)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">SW&lt;0&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET SW&lt;0&gt; LOC= V5;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(12)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="old" >Constraint <arg fmt="%s" index="1">&lt;NET SW&lt;1&gt; LOC= U4;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(13)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">SW&lt;1&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET SW&lt;1&gt; LOC= U4;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(13)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="old" >Constraint <arg fmt="%s" index="1">&lt;NET SW&lt;2&gt; LOC= V3;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(14)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">SW&lt;2&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET SW&lt;2&gt; LOC= V3;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(14)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="old" >Constraint <arg fmt="%s" index="1">&lt;NET LED&lt;0&gt; LOC=W3;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(17)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">LED&lt;0&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET LED&lt;0&gt; LOC=W3;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(17)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="old" >Constraint <arg fmt="%s" index="1">&lt;NET LED&lt;1&gt; LOC=Y4;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(18)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">LED&lt;1&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET LED&lt;1&gt; LOC=Y4;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(18)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="old" >Constraint <arg fmt="%s" index="1">&lt;NET LED&lt;2&gt; LOC=Y1;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(19)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">LED&lt;2&gt;</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET LED&lt;2&gt; LOC=Y1;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(19)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET AN(0) LOC = M17;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(21)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">AN(0)</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET AN(0) LOC = M17;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(21)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET AN(1) LOC = AA20;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(22)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">AN(1)</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET AN(1) LOC = AA20;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(22)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET AN(2) LOC = AB21;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(23)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">AN(2)</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET AN(2) LOC = AB21;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(23)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET AN(3) LOC = N16;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(24)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">AN(3)</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET AN(3) LOC = N16;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(24)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET AN(4) LOC = P19;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(25)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">AN(4)</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET AN(4) LOC = P19;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(25)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="new" >Constraint <arg fmt="%s" index="1">&lt;NET AN(5) LOC = P16;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(26)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">AN(5)</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET AN(5) LOC = P16;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(26)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="old" >Constraint <arg fmt="%s" index="1">&lt;NET digit_seg(0) LOC=AA21;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(28)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">digit_seg(0)</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET digit_seg(0) LOC=AA21;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(28)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="old" >Constraint <arg fmt="%s" index="1">&lt;NET digit_seg(1) LOC=AA22;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(29)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">digit_seg(1)</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET digit_seg(1) LOC=AA22;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(29)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="old" >Constraint <arg fmt="%s" index="1">&lt;NET digit_seg(2) LOC=Y22;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(30)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">digit_seg(2)</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET digit_seg(2) LOC=Y22;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(30)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="old" >Constraint <arg fmt="%s" index="1">&lt;NET digit_seg(3) LOC=N15;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(31)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">digit_seg(3)</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET digit_seg(3) LOC=N15;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(31)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="old" >Constraint <arg fmt="%s" index="1">&lt;NET digit_seg(4) LOC=AB19;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(32)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">digit_seg(4)</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET digit_seg(4) LOC=AB19;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(32)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="old" >Constraint <arg fmt="%s" index="1">&lt;NET digit_seg(5) LOC=P20;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(33)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">digit_seg(5)</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET digit_seg(5) LOC=P20;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(33)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="old" >Constraint <arg fmt="%s" index="1">&lt;NET digit_seg(6) LOC=Y21;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(34)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">digit_seg(6)</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET digit_seg(6) LOC=Y21;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(34)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+<msg type="error" file="ConstraintSystem" num="59" delta="old" >Constraint <arg fmt="%s" index="1">&lt;NET seg(7) LOC=P15;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(35)]</arg>: <arg fmt="%s" index="2">NET</arg> &quot;<arg fmt="%s" index="3">seg(7)</arg>&quot; not found.  Please verify that:
+1. The specified design element actually exists in the original design.
+2. The specified object is spelled correctly in the constraint source file.
+</msg>
+
+<msg type="warning" file="ConstraintSystem" num="0" >A target design object for the Locate constraint &apos;&lt;NET seg(7) LOC=P15;&gt; [C:/Users/Lenovo/Desktop/Mainboard.ucf(35)]&apos; could not be found and so the Locate constraint will be removed.
+</msg>
+
+</messages>
+

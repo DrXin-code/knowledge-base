@@ -1,0 +1,19 @@
+module ALU(
+	inpit [31:0] A,B,
+	input [2:0] ALU_operation,
+	output [31:0] Result,
+	output        Zero
+    );
+ 
+	assign Result=(ALU_operation==3'b000)?A+B :
+						(ALU_operation==3'b000)?A-B :
+						(ALU_operation==3'b000)?A&B :
+						(ALU_operation==3'b000)?A|B :
+						(ALU_operation==3'b000)?A^B :
+						(ALU_operation==3'b000)?{B[15:0],16'h0} 
+						32'hxxxxxxxx;
+						
+	assign Zero=~|Result;
+
+
+endmodule

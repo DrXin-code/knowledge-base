@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/Lenovo/Desktop/cpu/MUX32_2_1.xst" -ofn "C:/Users/Lenovo/Desktop/cpu/MUX32_2_1.syr" 
+netgen -intstyle ise -insert_glbl true -w -dir netgen/synthesis -ofmt verilog -sim MUX32_2_1.ngc MUX32_2_1_synthesis.v 

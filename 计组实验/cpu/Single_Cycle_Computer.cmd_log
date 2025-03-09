@@ -1,0 +1,11 @@
+xst -intstyle ise -ifn "C:/Users/Lenovo/Desktop/cpu/Single_Cycle_Computer.xst" -ofn "C:/Users/Lenovo/Desktop/cpu/Single_Cycle_Computer.syr" 
+xst -intstyle ise -ifn "C:/Users/Lenovo/Desktop/cpu/Single_Cycle_Computer.xst" -ofn "C:/Users/Lenovo/Desktop/cpu/Single_Cycle_Computer.syr" 
+xst -intstyle ise -ifn "C:/Users/Lenovo/Desktop/cpu/Single_Cycle_Computer.xst" -ofn "C:/Users/Lenovo/Desktop/cpu/Single_Cycle_Computer.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Lenovo/Desktop/Mainboard.ucf -p xc6slx45-csg484-3 Single_Cycle_Computer.ngc Single_Cycle_Computer.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Lenovo/Desktop/Mainboard.ucf -p xc6slx45-csg484-3 Single_Cycle_Computer.ngc Single_Cycle_Computer.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Lenovo/Desktop/Mainboard.ucf -p xc6slx45-csg484-3 Single_Cycle_Computer.ngc Single_Cycle_Computer.ngd  
+xst -intstyle ise -ifn "C:/Users/Lenovo/Desktop/cpu/Single_Cycle_Computer.xst" -ofn "C:/Users/Lenovo/Desktop/cpu/Single_Cycle_Computer.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Lenovo/Desktop/Mainboard.ucf -p xc6slx45-csg484-3 Single_Cycle_Computer.ngc Single_Cycle_Computer.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Lenovo/Desktop/Mainboard.ucf -p xc6slx45-csg484-3 Single_Cycle_Computer.ngc Single_Cycle_Computer.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Lenovo/Desktop/Mainboard.ucf -p xc6slx45-csg484-3 Single_Cycle_Computer.ngc Single_Cycle_Computer.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Lenovo/Desktop/Mainboard.ucf -p xc6slx45-csg484-3 Single_Cycle_Computer.ngc Single_Cycle_Computer.ngd  

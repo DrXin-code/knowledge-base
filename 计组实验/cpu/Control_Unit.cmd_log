@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/Lenovo/Desktop/cpu/Control_Unit.xst" -ofn "C:/Users/Lenovo/Desktop/cpu/Control_Unit.syr" 
+xst -intstyle ise -ifn "C:/Users/Lenovo/Desktop/cpu/Control_Unit.xst" -ofn "C:/Users/Lenovo/Desktop/cpu/Control_Unit.syr" 

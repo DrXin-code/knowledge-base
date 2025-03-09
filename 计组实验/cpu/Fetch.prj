@@ -1,0 +1,4 @@
+verilog work "MUX32_2_1.v"
+verilog work "Left_2_Shifter.v"
+verilog work "ADD32.v"
+verilog work "Fetch.v"

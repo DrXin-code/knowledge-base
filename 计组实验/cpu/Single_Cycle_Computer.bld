@@ -1,0 +1,254 @@
+Release 14.7 ngdbuild P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+Command Line: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\ngdbuild.exe
+-intstyle ise -dd _ngo -nt timestamp -uc C:/Users/Lenovo/Desktop/Mainboard.ucf
+-p xc6slx45-csg484-3 Single_Cycle_Computer.ngc Single_Cycle_Computer.ngd
+
+Reading NGO file "C:/Users/Lenovo/Desktop/cpu/Single_Cycle_Computer.ngc" ...
+Gathering constraint information from source properties...
+Done.
+
+Annotating constraints to design from ucf file
+"C:/Users/Lenovo/Desktop/Mainboard.ucf" ...
+Resolving constraint associations...
+Checking Constraint Associations...
+ERROR:ConstraintSystem:59 - Constraint <Net "BTN_IN" CLOCK_DEDICATED_ROUTE =
+   FALSE;> [C:/Users/Lenovo/Desktop/Mainboard.ucf(6)]: NET "BTN_IN" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+ERROR:ConstraintSystem:59 - Constraint <NET BTN_IN LOC = E6;>
+   [C:/Users/Lenovo/Desktop/Mainboard.ucf(7)]: NET "BTN_IN" not found.  Please
+   verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET BTN_IN LOC = E6;> [C:/Users/Lenovo/Desktop/Mainboard.ucf(7)]' could not
+   be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET SW<0> LOC= V5;>
+   [C:/Users/Lenovo/Desktop/Mainboard.ucf(12)]: NET "SW<0>" not found.  Please
+   verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET SW<0> LOC= V5;> [C:/Users/Lenovo/Desktop/Mainboard.ucf(12)]' could not
+   be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET SW<1> LOC= U4;>
+   [C:/Users/Lenovo/Desktop/Mainboard.ucf(13)]: NET "SW<1>" not found.  Please
+   verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET SW<1> LOC= U4;> [C:/Users/Lenovo/Desktop/Mainboard.ucf(13)]' could not
+   be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET SW<2> LOC= V3;>
+   [C:/Users/Lenovo/Desktop/Mainboard.ucf(14)]: NET "SW<2>" not found.  Please
+   verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET SW<2> LOC= V3;> [C:/Users/Lenovo/Desktop/Mainboard.ucf(14)]' could not
+   be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET LED<0> LOC=W3;>
+   [C:/Users/Lenovo/Desktop/Mainboard.ucf(17)]: NET "LED<0>" not found.  Please
+   verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET LED<0> LOC=W3;> [C:/Users/Lenovo/Desktop/Mainboard.ucf(17)]' could not
+   be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET LED<1> LOC=Y4;>
+   [C:/Users/Lenovo/Desktop/Mainboard.ucf(18)]: NET "LED<1>" not found.  Please
+   verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET LED<1> LOC=Y4;> [C:/Users/Lenovo/Desktop/Mainboard.ucf(18)]' could not
+   be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET LED<2> LOC=Y1;>
+   [C:/Users/Lenovo/Desktop/Mainboard.ucf(19)]: NET "LED<2>" not found.  Please
+   verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET LED<2> LOC=Y1;> [C:/Users/Lenovo/Desktop/Mainboard.ucf(19)]' could not
+   be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET AN(0) LOC = M17;>
+   [C:/Users/Lenovo/Desktop/Mainboard.ucf(21)]: NET "AN(0)" not found.  Please
+   verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET AN(0) LOC = M17;> [C:/Users/Lenovo/Desktop/Mainboard.ucf(21)]' could
+   not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET AN(1) LOC = AA20;>
+   [C:/Users/Lenovo/Desktop/Mainboard.ucf(22)]: NET "AN(1)" not found.  Please
+   verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET AN(1) LOC = AA20;> [C:/Users/Lenovo/Desktop/Mainboard.ucf(22)]' could
+   not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET AN(2) LOC = AB21;>
+   [C:/Users/Lenovo/Desktop/Mainboard.ucf(23)]: NET "AN(2)" not found.  Please
+   verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET AN(2) LOC = AB21;> [C:/Users/Lenovo/Desktop/Mainboard.ucf(23)]' could
+   not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET AN(3) LOC = N16;>
+   [C:/Users/Lenovo/Desktop/Mainboard.ucf(24)]: NET "AN(3)" not found.  Please
+   verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET AN(3) LOC = N16;> [C:/Users/Lenovo/Desktop/Mainboard.ucf(24)]' could
+   not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET AN(4) LOC = P19;>
+   [C:/Users/Lenovo/Desktop/Mainboard.ucf(25)]: NET "AN(4)" not found.  Please
+   verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET AN(4) LOC = P19;> [C:/Users/Lenovo/Desktop/Mainboard.ucf(25)]' could
+   not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET AN(5) LOC = P16;>
+   [C:/Users/Lenovo/Desktop/Mainboard.ucf(26)]: NET "AN(5)" not found.  Please
+   verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET AN(5) LOC = P16;> [C:/Users/Lenovo/Desktop/Mainboard.ucf(26)]' could
+   not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET digit_seg(0) LOC=AA21;>
+   [C:/Users/Lenovo/Desktop/Mainboard.ucf(28)]: NET "digit_seg(0)" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET digit_seg(0) LOC=AA21;> [C:/Users/Lenovo/Desktop/Mainboard.ucf(28)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET digit_seg(1) LOC=AA22;>
+   [C:/Users/Lenovo/Desktop/Mainboard.ucf(29)]: NET "digit_seg(1)" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET digit_seg(1) LOC=AA22;> [C:/Users/Lenovo/Desktop/Mainboard.ucf(29)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET digit_seg(2) LOC=Y22;>
+   [C:/Users/Lenovo/Desktop/Mainboard.ucf(30)]: NET "digit_seg(2)" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET digit_seg(2) LOC=Y22;> [C:/Users/Lenovo/Desktop/Mainboard.ucf(30)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET digit_seg(3) LOC=N15;>
+   [C:/Users/Lenovo/Desktop/Mainboard.ucf(31)]: NET "digit_seg(3)" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET digit_seg(3) LOC=N15;> [C:/Users/Lenovo/Desktop/Mainboard.ucf(31)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET digit_seg(4) LOC=AB19;>
+   [C:/Users/Lenovo/Desktop/Mainboard.ucf(32)]: NET "digit_seg(4)" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET digit_seg(4) LOC=AB19;> [C:/Users/Lenovo/Desktop/Mainboard.ucf(32)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET digit_seg(5) LOC=P20;>
+   [C:/Users/Lenovo/Desktop/Mainboard.ucf(33)]: NET "digit_seg(5)" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET digit_seg(5) LOC=P20;> [C:/Users/Lenovo/Desktop/Mainboard.ucf(33)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET digit_seg(6) LOC=Y21;>
+   [C:/Users/Lenovo/Desktop/Mainboard.ucf(34)]: NET "digit_seg(6)" not found. 
+   Please verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET digit_seg(6) LOC=Y21;> [C:/Users/Lenovo/Desktop/Mainboard.ucf(34)]'
+   could not be found and so the Locate constraint will be removed.
+
+ERROR:ConstraintSystem:59 - Constraint <NET seg(7) LOC=P15;>
+   [C:/Users/Lenovo/Desktop/Mainboard.ucf(35)]: NET "seg(7)" not found.  Please
+   verify that:
+   1. The specified design element actually exists in the original design.
+   2. The specified object is spelled correctly in the constraint source file.
+
+WARNING:ConstraintSystem - A target design object for the Locate constraint
+   '<NET seg(7) LOC=P15;> [C:/Users/Lenovo/Desktop/Mainboard.ucf(35)]' could not
+   be found and so the Locate constraint will be removed.
+
+Done...
+
+Checking expanded design ...
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+NGDBUILD Design Results Summary:
+  Number of errors:    22
+  Number of warnings:  21
+
+Total memory usage is 164416 kilobytes
+
+Total REAL time to NGDBUILD completion:  2 sec
+Total CPU time to NGDBUILD completion:   2 sec
+
+One or more errors were found during NGDBUILD.  No NGD file will be written.
+
+Writing NGDBUILD log file "Single_Cycle_Computer.bld"...

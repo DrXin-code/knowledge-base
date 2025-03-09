@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Lenovo/Desktop/cpu/Data_Flow.xst" -ofn "C:/Users/Lenovo/Desktop/cpu/Data_Flow.syr" 
